@@ -3,7 +3,7 @@ import pandas as pd
 import time
 import os
 
-API_KEY = '86690017307a1dab1d834fd6853c8cf2'  # Replace with your OpenWeatherMap API key
+API_KEY = 'Replace with your OpenWeatherMap API key'  
 CITY = 'London'
 latitude = 52.6309
 longitude = 1.2974
